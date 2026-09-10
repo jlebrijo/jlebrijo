@@ -5,12 +5,13 @@ I help companies ship reliable web products faster as a **freelance Ruby on Rail
 - 💼 14+ years building business-focused web applications
 - 🚀 30+ projects delivered for startups and growing companies
 - 🧰 Ruby on Rails, Hotwire, JavaScript, containers, microservices
+- 🤖 AI-assisted development to improve productivity and code quality
 - ✅ 90%+ automated test coverage and continuous delivery mindset
 - 🤝 Clear communication, daily progress updates, pragmatic execution
 
 ## What I do
 
-I design and build custom web applications from idea to production, keeping the process lean, collaborative, and focused on business results. My goal is to help clients launch an MVP quickly, reduce unnecessary complexity, and keep the product maintainable as it grows.
+I design and build custom web applications from idea to production, keeping the process lean, collaborative, and focused on business results. My goal is to help clients launch an MVP quickly, reduce unnecessary complexity, and keep the product maintainable as it grows. I also help companies integrate AI into their business workflows in practical, high-impact ways.
 
 ## Tech I use
 
