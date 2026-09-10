@@ -3,7 +3,7 @@
 **Ruby on Rails Freelancer** helping businesses turn ideas into fast, reliable web applications.
 
 📍 Magán, Spain  
-🌐 https://lebrijo.com
+🌐 [lebrijo.com](https://lebrijo.com)
 
 ## What I do
 
