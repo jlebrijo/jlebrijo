@@ -24,14 +24,14 @@
 
 - I focus on the **right solution for the business**, not unnecessary complexity
 - I prioritize **clear communication** and steady delivery
-- I use **automated tests**, strong code quality practices, and reliable deployment workflows
+- I use **automated tests**, strong code quality practices, and reliable delivery workflows
 - I design systems with **scalability and performance** in mind, including containers and microservices when they fit
 
 ## Core stack
 
 - **Ruby on Rails**
 - **Hotwire**
-- **PostgreSQL / relational databases**
+- **Relational databases**
 - **Automated testing**
 - **Containers & scalable architectures**
 
